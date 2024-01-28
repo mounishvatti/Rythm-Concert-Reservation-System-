@@ -1,7 +1,6 @@
 # Rythm Concert Reservation System
 
-### Authors: @justin494 and @mounishvatti
-
+### Authors: [`@justin4941`](https://github.com/justin494) and [`@mounishvatti`](https://github.com/mounishvatti)
 
 <h3>What is Rythm?</h3>
 
