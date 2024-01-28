@@ -1,6 +1,6 @@
 # Rythm Concert Reservation System
 
-### Authors: SAHARSH JUSTIN MATHIAS and MOUNISH VATTI
+### Authors: @justin494 and @mounishvatti
 
 
 <h3>What is Rythm?</h3>
