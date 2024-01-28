@@ -1,14 +1,14 @@
-# Rythm-Concert-Reservation-System-
+# Rythm Concert Reservation System
 
-<h1>Author: SAHARSH JUSTIN MATHIAS and MOUNISH VATTI<h1>
+### Authors: SAHARSH JUSTIN MATHIAS and MOUNISH VATTI
 
 
-<h1>What is it</h1>
+<h3>What is Rythm?</h3>
 
 <p>This is a mini Virtusa project for 3rd semester of my university course in retrieval of data.It's an online ticket reservation system for concerts that works local.The concerts take place at the most famous stadiums around the world.Every stadium  has different capacity and is headquartered in a different place.A client can buy one or more tickets.Also, he can cancel the reservation,so his money goes back to him.Every concert have a different cost.</p>
 
 
-<h1>How it works</h1>
+<h3>How it works</h3>
 
 <p>Before run this app change the config.php file with your own informations:</p> 
 
@@ -33,7 +33,7 @@ password:ts
 
 
 
-<h1>Technology Stack</h1>
+<h3>Technology Stack</h3>
 <ul>
 
 <li>Front-End
